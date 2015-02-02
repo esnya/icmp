@@ -1,0 +1,8 @@
+{
+	"name": "icmp",
+	"description": "ICMP utility for D",
+	"copyright": "Copyright © 2015, ukatama",
+	"authors": ["ukatama"],
+	"dependencies": {
+	}
+}
