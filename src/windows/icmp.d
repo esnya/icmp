@@ -4,8 +4,6 @@ module windows.icmp;
 version(Windows) extern(System) {
     public import std.c.windows.windows;
 
-    pragma(lib, "Iphlpapi.lib");
-
     // IPERxport.h
     alias IPAddr = ULONG;
     alias IPMask = ULONG;
